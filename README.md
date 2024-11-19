@@ -72,6 +72,8 @@ The calculator program implements basic arithmetic operations using slider switc
    - Tested by using large inputs and repeated operations:
      - Input: `n=15`, `m=15`, Operation: Multiply (repeated 5 times).
      - Output: `OVERFLO`.
+4.  **Simulator**:
+   - https://ecse324.ece.mcgill.ca/simulator/?sys=arm-de1soc
 
 ---
 
